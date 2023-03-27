@@ -10,8 +10,8 @@ export const defaultSetting = {
   model: "gpt-3.5-turbo" as Model
 }
 
-export const defaultMessage = `shuchong
-- 由书虫临时提供  ""  这个API复制到左下角"OpenAI Key"的输入框里面去就行
+export const defaultMessage = `书虫
+- 由书虫提供,进行测试使用,每天官网开放免费限额使用,更新时间由Vx：SCFuYe003朋友圈通知
 - [[Shift]] + [[Enter]] 换行。开头输入 [[空格]] 跳出更多 预设。[[↑]] 可编辑最近一次提问。`
 
 export type Setting = typeof defaultSetting
