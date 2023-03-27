@@ -11,7 +11,7 @@ export const defaultSetting = {
 }
 
 export const defaultMessage = `shuchong
-- 由书虫临时提供  "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"  这个API复制到左下角"OpenAI Key"的输入框里面去就行
+- 由书虫临时提供  ""  这个API复制到左下角"OpenAI Key"的输入框里面去就行
 - [[Shift]] + [[Enter]] 换行。开头输入 [[空格]] 跳出更多 预设。[[↑]] 可编辑最近一次提问。`
 
 export type Setting = typeof defaultSetting
