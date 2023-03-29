@@ -11,7 +11,7 @@ export const defaultSetting = {
 }
 
 export const defaultMessage = `书虫
-- 由书虫提供,进行测试使用,每天官网开放免费限额使用,更新时间由Vx：SCFuYe003朋友圈通知
+- 网站以进行升级，新的网站添加VX：SCFuYe003，朋友圈有免费的可以使用
 - [[Shift]] + [[Enter]] 换行。开头输入 [[空格]] 跳出更多 预设。[[↑]] 可编辑最近一次提问。`
 
 export type Setting = typeof defaultSetting
